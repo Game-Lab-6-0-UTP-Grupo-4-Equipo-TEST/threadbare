@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://cs5yhfry7dlh6"
+path="res://.godot/imported/house_dragon_combat.dialogue-15527ddaa29b1b8763c6f2da2b81d4b1.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/house_dragon/2_combat/combat_components/house_dragon_combat.dialogue"
+dest_files=["res://.godot/imported/house_dragon_combat.dialogue-15527ddaa29b1b8763c6f2da2b81d4b1.tres"]
+
+[params]
+
+defaults=true
