@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dum6kuahdd5mi"
+path="res://.godot/imported/house_dragon_sequence_puzzle.dialogue-f7d0e43ea9c2e640d665150932903f7c.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/house_dragon/3_sequence_puzzle/house_dragon_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/house_dragon_sequence_puzzle.dialogue-f7d0e43ea9c2e640d665150932903f7c.tres"]
+
+[params]
+
+defaults=true

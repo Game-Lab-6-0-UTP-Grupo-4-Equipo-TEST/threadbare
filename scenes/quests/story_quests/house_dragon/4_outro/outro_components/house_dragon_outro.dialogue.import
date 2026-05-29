@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c3gjaa31u8hki"
+path="res://.godot/imported/house_dragon_outro.dialogue-b47acb5bfd0804982523de8c981e1143.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/house_dragon/4_outro/outro_components/house_dragon_outro.dialogue"
+dest_files=["res://.godot/imported/house_dragon_outro.dialogue-b47acb5bfd0804982523de8c981e1143.tres"]
+
+[params]
+
+defaults=true

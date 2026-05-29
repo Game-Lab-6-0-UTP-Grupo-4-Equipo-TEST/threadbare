@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://jcrlkxcuhb0g"
+path="res://.godot/imported/house_dragon_collected.dialogue-4194bc39a9cc3318c6887c00a929667b.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/house_dragon/1_stealth/stealth_components/house_dragon_collected.dialogue"
+dest_files=["res://.godot/imported/house_dragon_collected.dialogue-4194bc39a9cc3318c6887c00a929667b.tres"]
+
+[params]
+
+defaults=true
